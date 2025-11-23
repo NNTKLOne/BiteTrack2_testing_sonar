@@ -1,0 +1,82 @@
+name: Build & Test Pipeline
+
+on:
+  push:
+    branches:
+      - master
+      - feature-*   # Suveikia visoms šakoms, prasidedančioms "feature-"
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install system dependencies (PortAudio)
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libportaudio2 portaudio19-dev
+
+    - name: Install libmtdev1 for Kivy
+      run: sudo apt-get install -y libmtdev1
+
+    - name: Install virtual display for GUI testing
+      run: |
+        sudo apt-get install -y xvfb
+        Xvfb :99 -ac &
+        echo "DISPLAY=:99" >> $GITHUB_ENV
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+
+    - name: List Python test files
+      run: find 2nd_tests/ -name "test_*.py"
+
+    - name: Copy DB for GUI tests
+      run: |
+        mkdir -p ui
+        cp 2nd_tests/data.db ui/data.db
+    
+
+    - name: Copy test database into correct location
+      continue-on-error: true
+      run: |
+        cp 2nd_tests/data.db database/data.db
+
+    - name: Run integration tests in 2nd_tests folder with force-flush output
+      env:
+        PYTEST_ADDOPTS: "-v -rA"
+      continue-on-error: true
+      run: |
+        export PYTHONPATH="${PYTHONPATH}:$(pwd)"
+        python -u -m pytest 2nd_tests/ | tee test-output.log || true
+        
+
+    - name: Run unit tests in test folder with force-flush output
+      env:
+        PYTEST_ADDOPTS: "-v -rA"
+      continue-on-error: false
+      run: |
+        export PYTHONPATH="${PYTHONPATH}:$(pwd)"
+        python -u -m pytest test/ | tee test-unit-output.log || true
+    
+    
+    
+
+    - name: Archive test logs
+      uses: actions/upload-artifact@v4
+      with:
+        name: test-logs
+        path: |
+          test-output.log
+          test-unit-output.log

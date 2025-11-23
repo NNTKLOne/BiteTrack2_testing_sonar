@@ -1,0 +1,114 @@
+{
+  ".\\LLM.py": {
+    "classes": {},
+    "file_coupling": 4,
+    "num_functions": 3
+  },
+  ".\\TranslationManager.py": {
+    "classes": {
+      "translationManager": {
+        "WMC": 3,
+        "CBO": 2,
+        "RFC": 5,
+        "DIT": 0,
+        "NOC": 0,
+        "Cohesion": 0.0,
+        "Coupling": 2,
+        "LCOM": 1.0,
+        "num_methods": 3,
+        "num_attributes": 1
+      }
+    },
+    "file_coupling": 1,
+    "num_functions": 0
+  },
+  ".\\translations.py": {
+    "classes": {},
+    "file_coupling": 0,
+    "num_functions": 0
+  },
+  ".\\voiceToText.py": {
+    "classes": {
+      "VoiceToText": {
+        "WMC": 34,
+        "CBO": 22,
+        "RFC": 46,
+        "DIT": 0,
+        "NOC": 0,
+        "Cohesion": 0.11,
+        "Coupling": 22,
+        "LCOM": 0.89,
+        "num_methods": 9,
+        "num_attributes": 12
+      }
+    },
+    "file_coupling": 9,
+    "num_functions": 0
+  },
+  ".\\ui\\mainScreen.py": {
+    "classes": {
+      "MainScreen": {
+        "WMC": 35,
+        "CBO": 30,
+        "RFC": 62,
+        "DIT": 0,
+        "NOC": 0,
+        "Cohesion": 0.07,
+        "Coupling": 30,
+        "LCOM": 0.93,
+        "num_methods": 18,
+        "num_attributes": 16
+      },
+      "MyApp": {
+        "WMC": 1,
+        "CBO": 4,
+        "RFC": 5,
+        "DIT": 0,
+        "NOC": 0,
+        "Cohesion": 1,
+        "Coupling": 4,
+        "LCOM": 0,
+        "num_methods": 1,
+        "num_attributes": 2
+      }
+    },
+    "file_coupling": 6,
+    "num_functions": 0
+  },
+  ".\\ui\\statisticsScreen.py": {
+    "classes": {
+      "StatisticsScreen": {
+        "WMC": 26,
+        "CBO": 22,
+        "RFC": 50,
+        "DIT": 0,
+        "NOC": 0,
+        "Cohesion": 0.1,
+        "Coupling": 22,
+        "LCOM": 0.9,
+        "num_methods": 13,
+        "num_attributes": 11
+      }
+    },
+    "file_coupling": 3,
+    "num_functions": 0
+  },
+  ".\\database\\database.py": {
+    "classes": {
+      "Database": {
+        "WMC": 12,
+        "CBO": 4,
+        "RFC": 20,
+        "DIT": 0,
+        "NOC": 0,
+        "Cohesion": 0.04,
+        "Coupling": 4,
+        "LCOM": 0.96,
+        "num_methods": 11,
+        "num_attributes": 3
+      }
+    },
+    "file_coupling": 2,
+    "num_functions": 0
+  }
+}

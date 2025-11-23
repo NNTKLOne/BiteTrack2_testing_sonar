@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+env/
+.env
+.venv/
+venv312/
+__pypackages__/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+.vs/
+
+# Pytest / test cache
+.pytest_cache/
+coverage.xml
+*.cover
+htmlcov/
+
+bin/
+obj/
+
+*.txt
