@@ -1,0 +1,253 @@
+
+1.0PythonFrontend"1763922241596*py2.BÔ
+
+
+imports1
+
+extends2
+
+returns3
+
+	has param4
+
+module5
+
+
+class6
+
+function7
+
+ui/mainScreen.py9
+
+ui.mainScreen11
+
+kivy.app12
+
+	kivy.lang14
+
+kivy.uix.boxlayout16
+
+kivy.uix.label18
+
+kivy.uix.popup20
+
+kivy.uix.screenmanager22
+
+kivy.uix.button24
+
+kivy.uix.textinput26
+
+ui.statisticsScreen28
+
+database.database30
+	
+LLM32
+
+voiceToText34
+
+
+kivy.clock36
+
+TranslationManager38
+
+ui.mainScreen.MyApp40
+
+ui.mainScreen.MyApp.build42
+
+ui.mainScreen.MainScreen44
+/
+)ui.mainScreen.MainScreen.save_to_products46
+2
+,ui.mainScreen.MainScreen.update_product_list48
+.
+(ui.mainScreen.MainScreen.load_statistics50
+-
+'ui.mainScreen.MainScreen.delete_product52
+2
+,ui.mainScreen.MainScreen.save_edited_product54
+/
+)ui.mainScreen.MainScreen.save_to_database56
+/
+)ui.mainScreen.MainScreen.update_from_text58
+.
+(ui.mainScreen.MainScreen.display_results60
++
+%ui.mainScreen.MainScreen.set_language62
+:
+4ui.mainScreen.MainScreen.handle_transcription_result64
+)
+#ui.mainScreen.MainScreen.show_error66
+.
+(ui.mainScreen.MainScreen.start_recording68
+)
+#ui.mainScreen.MainScreen.clear_text70
+*
+$ui.mainScreen.MainScreen.send_to_llm72
++
+%ui.mainScreen.MainScreen.edit_product74
+-
+'ui.mainScreen.MainScreen.confirm_delete76
+'
+!ui.mainScreen.MainScreen.__init__78
+
+
+dict80J
+
+8
+89j³
+ 
+10
+10115 *
+8 (
+
+13
+13125
+
+15
+15145
+
+17
+17165
+
+19
+19185
+
+21
+21205
+
+23
+23225
+
+25
+25245
+
+27
+27265
+
+29
+29285
+
+31
+31305
+
+33
+33325
+
+35
+35345
+
+37
+37365
+
+39
+39385
+
+41
+41406 210
+
+43
+43427 241
+
+45
+45446 210
+
+47
+47467 245
+
+49
+49487 245
+
+51
+51507 245
+
+53
+53527 245
+
+55
+55547 245
+
+57
+57567 245
+
+59
+59587 245
+
+61
+61607 245
+
+63
+63627 245
+
+65
+65647 245
+
+67
+67667 245
+
+69
+69687 245
+
+71
+71707 245
+
+73
+73727 245
+
+75
+75747 245
+
+77
+77767 245
+
+79
+79787 245
+
+81
+81806r†
+
+10131*
+8 (
+
+10151*
+8 (
+
+10171*
+8 ()
+
+10191*
+8 (!
+
+10211*
+8 (!
+
+10231*
+8 (9
+
+10251*
+8 (#
+
+10271*
+8 ()
+
+10291*
+8
+ 
+(1
+
+10311*
+8 ('
+
+10331*
+8 (
+
+10351*
+8 ($
+
+10371*
+8 (
+
+10391*
+8 (2
+
+79814*
+8	 (

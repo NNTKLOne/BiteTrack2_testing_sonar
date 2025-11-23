@@ -1,0 +1,561 @@
+
+Jfile:///C:/Users/viliu/source/repos/Bite_Track_Sonar_test/translations.py7
+__unknown_file ("1*x
+2
+translations.py"`
+I
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py3 3(
+implicit return*ÿD
+1I
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py 2([Y
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py 2(
+%1"dict[Y
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py
+ (
+%2"dict∂
+≥
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (,
+%3"__mapSet*
+ (
+
+%2*
+ (
+start_recording*
+ (
+Start Recording¥
+±
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (*
+%4"__mapSet*
+ (
+
+%2*
+ (
+stop_recording*
+ (
+Stop Recording†
+ù
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (
+%5"__mapSet*
+ (
+
+%2*
+ (
+save*
+ (
+Save§
+°
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (
+%6"__mapSet*
+ (
+
+%2*
+ (
+
+cancel*
+ (
+
+Cancel§
+°
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (
+%7"__mapSet*
+ (
+
+%2*
+ (
+
+delete*
+ (
+
+Delete¶
+£
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (
+%8"__mapSet*
+ (
+
+%2*
+ (	
+confirm*
+ (	
+Confirmø
+º
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py	 	(5
+%9"__mapSet*
+ (
+
+%2* 
+ (
+language_changed*'
+ (
+Language changed to: {}¬
+ø
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py
+ 
+(7
+%10"__mapSet*
+ (
+
+%2*
+ (
+product_saved*,
+ ( 
+Products successfully saved.≈
+¬
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (:
+%11"__mapSet*
+ (
+
+%2*
+ (
+product_deleted*-
+ (!
+Product successfully deleted.±
+Æ
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (&
+%12"__mapSet*
+ (
+
+%2*
+ (
+edit_product*
+ (
+Edit product•
+¢
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (
+%13"__mapSet*
+ (
+
+%2*
+ (
+
+update*
+ (
+
+Updateß
+§
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (
+%14"__mapSet*
+ (
+
+%2*
+ (	
+go_back*
+ (	
+Go Backß
+§
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (
+%15"__mapSet*
+ (
+
+%2*
+ (	
+reports*
+ (	
+ReportsÆ
+´
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (#
+%16"__mapSet*
+ (
+
+%2*
+ (	
+no_data*
+ (
+No data found.º
+π
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (1
+%17"__mapSet*
+ (
+
+%2*
+ (
+
+edited*-
+ (!
+Product updated successfully.Ω
+∫
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (2
+%18"__mapSet*
+ (
+
+%2*
+ (	
+deleted*-
+ (!
+Product deleted successfully.¶
+£
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (
+%19"__mapSet*
+ (
+
+%2*
+ (
+
+filter_all*
+ (
+All®
+•
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (
+%20"__mapSet*
+ (
+
+%2*
+ (
+
+filter_day*
+ (	
+Today≠
+™
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py ("
+%21"__mapSet*
+ (
+
+%2*
+ (
+filter_week*
+ (
+	This WeekØ
+¨
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py ($
+%22"__mapSet*
+ (
+
+%2*
+ (
+filter_month*
+ (
+
+This Month≥
+∞
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py ((
+%23"__mapSet*
+ (
+
+%2*
+ (
+apply_changes*
+ (
+Apply Changesø
+º
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (4
+%24"__mapSet*
+ (
+
+%2*#
+ (
+recognized_products*#
+ (
+Recognized Productsù
+ö
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (
+%25"__mapSet*
+ (
+
+%1*
+ (
+en*
+ (
+
+%2\Z
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py
+ 1(
+%26"dictº
+π
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (,
+%27"__mapSet*
+ (
+
+%26*
+ (
+start_recording*#
+ (
+Pradƒóti ƒØra≈°ymƒÖΩ
+∫
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (.
+%28"__mapSet*
+ (
+
+%26*
+ (
+stop_recording*%
+ (
+Sustabdyti ƒØra≈°ymƒÖ®
+•
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (
+%29"__mapSet*
+ (
+
+%26*
+ (
+save*
+ (
+
+I≈°saugoti©
+¶
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (
+%30"__mapSet*
+ (
+
+%26*
+ (
+
+cancel*
+ (
+	At≈°aukti™
+ß
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py (
+%31"__mapSet*
+ (
+
+%26*
+ (
+
+delete*
+ (
+
+Pa≈°alinti¨
+©
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py   ( 
+%32"__mapSet*
+ (
+
+%26*
+ (	
+confirm*
+ (
+Patvirtintiø
+º
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py! !(2
+%33"__mapSet*
+ (
+
+%26* 
+ (
+language_changed*%
+ (
+Kalba pakeista ƒØ: {}«
+ƒ
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py" "(9
+%34"__mapSet*
+ (
+
+%26*
+ (
+product_saved*0
+ ($"
+ Produktai sƒókmingai i≈°saugoti. 
+«
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py# #(<
+%35"__mapSet*
+ (
+
+%26*
+ (
+product_deleted*1
+ (%#
+!Produktas sƒókmingai pa≈°alintas.π
+∂
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py$ $(,
+%36"__mapSet*
+ (
+
+%26*
+ (
+edit_product*#
+ (
+Redaguoti produktƒÖ™
+ß
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py% %(
+%37"__mapSet*
+ (
+
+%26*
+ (
+
+update*
+ (
+
+AtnaujintiØ
+¨
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py& &(!
+%38"__mapSet*
+ (
+
+%26*
+ (	
+go_back*
+ (
+GrƒØ≈æti atgal´
+®
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py' '(
+%39"__mapSet*
+ (
+
+%26*
+ (	
+reports*
+ (
+
+Ataskaitos≤
+Ø
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py( ((%
+%40"__mapSet*
+ (
+
+%26*
+ (	
+no_data*!
+ (
+Duomen≈≥ nerasta.√
+¿
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py) )(6
+%41"__mapSet*
+ (
+
+%26*
+ (
+
+edited*3
+ ('%
+#Pavadinimas sƒókmingai atnaujintas.¬
+ø
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py* *(4
+%42"__mapSet*
+ (
+
+%26*
+ (	
+deleted*1
+ (%#
+!Produktas sƒókmingai pa≈°alintas.®
+•
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py+ +(
+%43"__mapSet*
+ (
+
+%26*
+ (
+
+filter_all*
+ (
+Visi©
+¶
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py, ,(
+%44"__mapSet*
+ (
+
+%26*
+ (
+
+filter_day*
+ (	
+Diena≠
+™
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py- -( 
+%45"__mapSet*
+ (
+
+%26*
+ (
+filter_week*
+ (
+
+Savaitƒó¨
+©
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py. .(
+%46"__mapSet*
+ (
+
+%26*
+ (
+filter_month*
+ (
+
+Mƒónuoª
+∏
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py/ /(-
+%47"__mapSet*
+ (
+
+%26*
+ (
+apply_changes*$
+ (
+ƒÆra≈°yti pakeitimus¡
+æ
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py0 0(4
+%48"__mapSet*
+ (
+
+%26*#
+ (
+recognized_products*$
+ (
+Atpa≈æinti produktaiû
+õ
+K
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py 1(
+%49"__mapSet*
+ (
+
+%1*
+ (
+lt*
+ (
+
+%26w
+u
+I
+AC:\Users\viliu\source\repos\Bite_Track_Sonar_test\translations.py 2(
+TRANSLATIONS"__id*
+ (
+
+%1*
+2B H

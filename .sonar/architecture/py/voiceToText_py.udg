@@ -1,0 +1,134 @@
+
+1.0PythonFrontend"1763922241240*py2.Bþ
+
+imports1
+
+extends2
+
+returns3
+
+	has param4
+
+module5
+
+
+class6
+
+function7
+
+voiceToText.py9
+
+voiceToText11
+
+
+wave12
+
+	threading14
+
+
+groq16
+
+
+kivy.clock18
+
+
+time20
+
+os22
+
+dotenv24
+
+voiceToText.VoiceToText26
++
+%voiceToText.VoiceToText._record_audio28
+2
+,voiceToText.VoiceToText._is_audio_file_empty30
+-
+'voiceToText.VoiceToText.check_file_size32
+0
+*voiceToText.VoiceToText._run_transcription34
+*
+$voiceToText.VoiceToText.set_language36
+/
+)voiceToText.VoiceToText._get_audio_length38
+&
+ voiceToText.VoiceToText.__init__40
+-
+'voiceToText.VoiceToText.start_recording42J
+
+8
+89jˆ
+ 
+10
+10115 *
+8 (
+
+13
+13125
+
+15
+15145
+
+17
+17165
+
+19
+19185
+
+21
+21205
+
+23
+23225
+
+25
+25245
+
+27
+27266 210
+
+29
+29287 227
+
+31
+31307 227
+
+33
+33327 227
+
+35
+35347 227
+
+37
+37367 227
+
+39
+39387 227
+
+41
+41407 227
+
+43
+43427 227r¶
+
+10131*
+8 (
+
+10151*
+8 (
+
+10171*
+8 (
+
+10191*
+8 (
+
+10211*
+8 (
+
+10231*
+8 (
+
+
+10251*
+8	 	(

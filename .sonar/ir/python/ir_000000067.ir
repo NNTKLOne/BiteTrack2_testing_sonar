@@ -1,0 +1,30 @@
+self ("š(
+&
+ (+"#get-field# db_file:(
+&
+ (,"#unknown-value#Bfloat&
+$
+ (,"#unknown-value#Bint!
+
+ (,"#unknown-value#'
+%
+ (,"#unknown-value#Bbool!
+
+ (,"#unknown-value#&
+$
+ (,"#unknown-value#Bint'
+%
+ (,	"#unknown-value#BboolT
+R
+ (,
+conn"
+sqlite3.dbapi2connect:	Bsqlite3.dbapi2.Connection!
+
+ (""#unknown-value#$
+"
+ (&"#get-field# Row:-
++
+ ("#set-field# row_factory:
+
+ (
+*FC:\Users\viliu\source\repos\Bite_Track_Sonar_test\database\database.py

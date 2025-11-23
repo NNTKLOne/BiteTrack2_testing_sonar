@@ -1,0 +1,197 @@
+
+/ui.statisticsScreen.StatisticsScreen.set_filterT
+HC:\Users\viliu\source\repos\Bite_Track_Sonar_test\ui\statisticsScreen.pyπ π("2*¡
+2
+ª ¿(	
+
+ª ¿(	
+%1"dictp
+n
+
+º º(
+%2"__id*T
+
+__unknown_file (8*6&
+$ui.statisticsScreen.StatisticsScreen"
+
+translatorge
+
+º º(+
+%3*"
+
+__unknown_file (
+
+%2**
+
+__unknown_file (
+
+filter_all2tç
+ä
+
+º º(3
+%4"__mapSet*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%3*$
+
+__unknown_file (
+Visip
+n
+
+Ω Ω(
+%5"__id*T
+
+__unknown_file (8*6&
+$ui.statisticsScreen.StatisticsScreen"
+
+translatorge
+
+Ω Ω(+
+%6*"
+
+__unknown_file (
+
+%5**
+
+__unknown_file (
+
+filter_day2té
+ã
+
+Ω Ω(4
+%7"__mapSet*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%6*%
+
+__unknown_file (	
+Dienap
+n
+
+æ æ(
+%8"__id*T
+
+__unknown_file (8*6&
+$ui.statisticsScreen.StatisticsScreen"
+
+translatorhf
+
+æ æ(,
+%9*"
+
+__unknown_file (
+
+%8*+
+
+__unknown_file (
+filter_week2tí
+è
+
+æ æ(7
+%10"__mapSet*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%9*(
+
+__unknown_file (
+
+Savaitƒóq
+o
+
+ø ø(
+%11"__id*T
+
+__unknown_file (8*6&
+$ui.statisticsScreen.StatisticsScreen"
+
+translatorki
+
+ø ø(-
+%12*#
+
+__unknown_file (
+
+%11*,
+
+__unknown_file (
+filter_month2të
+é
+
+ø ø(6
+%13"__mapSet*"
+
+__unknown_file (
+
+%1*#
+
+__unknown_file (
+
+%12*&
+
+__unknown_file (
+
+MƒónuoC
+A
+
+ª ¿(		
+key_map"__id*"
+
+__unknown_file (
+
+%1õò
+
+¬ ¬(3
+%14"dict.get*'
+
+__unknown_file (
+	
+key_map*%
+
+__unknown_file (	
+
+value*$
+
+__unknown_file (
+Visi2getK
+I
+
+¬ ¬(3
+internal_value"__id*#
+
+__unknown_file (
+
+%14¢ü
+
+√ √(1
+%15*D
+
+__unknown_file ((&
+$ui.statisticsScreen.StatisticsScreen*.
+
+__unknown_file (
+
+internal_value2load_statistics_data*
+3*;
+3
+statisticsScreen.py"
+∆ ∆(
+implicit return:
+
+π π(
+valueB(&
+$ui.statisticsScreen.StatisticsScreenH

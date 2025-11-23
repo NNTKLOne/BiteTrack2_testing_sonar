@@ -1,0 +1,169 @@
+
+1.0PythonFrontend"1763922241559*py2.B¦
+
+imports1
+
+extends2
+
+returns3
+
+	has param4
+
+module5
+
+
+class6
+
+function7
+
+ui/statisticsScreen.py9
+
+ui.statisticsScreen11
+
+kivy.uix.popup12
+
+kivy.uix.boxlayout14
+
+kivy.uix.label16
+
+kivy.uix.button18
+
+kivy.uix.textinput20
+
+kivy.uix.screenmanager22
+
+kivy.app24
+
+database.database26
+
+TranslationManager28
+*
+$ui.statisticsScreen.StatisticsScreen30
+3
+-ui.statisticsScreen.StatisticsScreen.on_enter32
+?
+9ui.statisticsScreen.StatisticsScreen.confirm_delete_popup34
+7
+1ui.statisticsScreen.StatisticsScreen.edit_product36
+2
+,ui.statisticsScreen.StatisticsScreen.go_back38
+<
+6ui.statisticsScreen.StatisticsScreen.show_confirmation40
+3
+-ui.statisticsScreen.StatisticsScreen.__init__42
+
+
+dict44
+<
+6ui.statisticsScreen.StatisticsScreen._delete_and_close46
+?
+9ui.statisticsScreen.StatisticsScreen.load_statistics_data48
+7
+1ui.statisticsScreen.StatisticsScreen.set_language50
+5
+/ui.statisticsScreen.StatisticsScreen.show_error52
+5
+/ui.statisticsScreen.StatisticsScreen.set_filter54J
+
+8
+89jŒ
+ 
+10
+10115 *
+8 (
+
+13
+13125
+
+15
+15145
+
+17
+17165
+
+19
+19185
+
+21
+21205
+
+23
+23225
+
+25
+25245
+
+27
+27265
+
+29
+29285
+
+31
+31306 210
+
+33
+33327 231
+
+35
+35347 231
+
+37
+37367 231
+
+39
+39387 231
+
+41
+41407 231
+
+43
+43427 231
+
+45
+45446
+
+47
+47467 231
+
+49
+49487 231
+
+51
+51507 231
+
+53
+53527 231
+
+55
+55547 231r„
+
+10131*
+8 (!
+
+10151*
+8 ()
+
+10171*
+8 (!
+
+10191*
+8 (#
+
+10211*
+8 ()
+
+10231*
+8 (*
+
+10251*
+8 (
+
+10271*
+8 ('
+
+10291*
+8	 	(2
+
+43454*
+8	 (

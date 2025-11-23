@@ -1,0 +1,166 @@
+
+1.0PythonFrontend"1763922241290*py2.Bö
+
+imports1
+
+extends2
+
+returns3
+
+	has param4
+
+module5
+
+
+class6
+
+function7
+ 
+metrics/metrics_analyzer.py9
+
+metrics_analyzer11
+	
+ast12
+
+os14
+
+pathlib16
+
+collections18
+
+
+json20
+	
+sys22
+$
+metrics_analyzer.analyze_files24
+$
+metrics_analyzer.calculate_noc26
+%
+metrics_analyzer.calculate_lcom28
+&
+ metrics_analyzer.generate_report30
+$
+metrics_analyzer.calculate_wmc32
++
+%metrics_analyzer.generate_json_report34
+$
+metrics_analyzer.calculate_dit36
+&
+ metrics_analyzer.MetricsAnalyzer38
+
+ast.NodeVisitor40
+6
+0metrics_analyzer.MetricsAnalyzer.visit_Attribute42
+1
++metrics_analyzer.MetricsAnalyzer.visit_Call44
+5
+/metrics_analyzer.MetricsAnalyzer.visit_ClassDef46
+7
+1metrics_analyzer.MetricsAnalyzer.visit_ImportFrom48
+<
+6metrics_analyzer.MetricsAnalyzer._calculate_complexity50
+/
+)metrics_analyzer.MetricsAnalyzer.__init__52
+8
+2metrics_analyzer.MetricsAnalyzer.visit_FunctionDef54
+3
+-metrics_analyzer.MetricsAnalyzer.visit_Import56J
+
+8
+89j·
+ 
+10
+10115 *
+8 (
+
+13
+13125
+
+15
+15145
+
+17
+17165
+
+19
+19185
+
+21
+21205
+
+23
+23225
+
+25
+25247 210
+
+27
+27267 210
+
+29
+29287 210
+
+31
+31307 210
+
+33
+33327 210
+
+35
+35347 210
+
+37
+37367 210
+
+39
+39386 210
+
+41
+41406
+
+43
+43427 239
+
+45
+45447 239
+
+47
+47467 239
+
+49
+49487 239
+
+51
+51507 239
+
+53
+53527 239
+
+55
+55547 239
+
+57
+57567 239r¸
+
+10131*
+8 (
+
+10151*
+8 (
+
+
+10171*
+8 (
+
+10191*
+8 ($
+
+10211*
+8 (
+
+10231*
+8Ò Ò(
+
+39412*
+8 (

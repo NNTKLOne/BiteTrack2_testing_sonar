@@ -1,0 +1,108 @@
+
+1.0PythonFrontend"1763922241459*py2.B”
+
+imports1
+
+extends2
+
+returns3
+
+	has param4
+
+module5
+
+
+class6
+
+function7
+
+test/test_VTT.py9
+
+test_VTT11
+
+unittest12
+
+unittest.mock14
+
+voiceToText16
+
+pathlib18
+
+test_VTT.TestVoiceToText20
+
+unittest.case.TestCase22
+0
+*test_VTT.TestVoiceToText.test_set_language24
+$
+test_VTT.TestVoiceToText.setUp26
+E
+?test_VTT.TestVoiceToText.test_transcription_fails_on_empty_file28
+K
+Etest_VTT.TestVoiceToText.test_transcription_fails_on_invalid_response30
+5
+/test_VTT.TestVoiceToText.test_run_transcription32
+(
+"test_VTT.TestVoiceToText.test_init34
+7
+1test_VTT.TestVoiceToText.test_is_audio_file_empty36J
+
+8
+89jÉ
+ 
+10
+10115 *
+8 (
+
+13
+13125
+
+15
+15145
+
+17
+17165
+
+19
+19185
+
+21
+21206 210
+
+23
+23226
+
+25
+25247 221
+
+27
+27267 221
+
+29
+29287 221
+
+31
+31307 221
+
+33
+33327 221
+
+35
+35347 221
+
+37
+37367 221r‚
+
+10131*
+8 (
+
+10151*
+8 (;
+
+10171*
+8 ($
+
+10191*
+8 (
+
+21232*
+8	 	(

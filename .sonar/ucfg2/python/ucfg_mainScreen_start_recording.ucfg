@@ -1,0 +1,234 @@
+
+(ui.mainScreen.MainScreen.start_recordingL
+BC:\Users\viliu\source\repos\Bite_Track_Sonar_test\ui\mainScreen.py ("2*Ï
+2 (.f
+d
+ (!
+%21"__id*K
+
+__unknown_file (/*-
+ui.mainScreen.MainScreen"
+voice_to_textP
+N
+ (.
+%22"__id*5
+
+__unknown_file (*
+
+%21"
+is_recording*
+4
+5*3
+3
+mainScreen.py"
+( ((
+implicit return*é	
+4 (Mb
+`
+* (9
+%1"__id*H
+
+__unknown_file (,**
+ui.mainScreen.MainScreen"
+
+translatorig
+* (M
+%2*"
+
+__unknown_file (
+
+%1*.
+
+__unknown_file (
+stop_recording2t[
+Y
+ (
+%3"__id*A
+
+__unknown_file (%*#
+ui.mainScreen.MainScreen"
+idsO
+M
+ ("
+%4"__id*5
+
+__unknown_file (*
+
+%3"
+record_buttonF
+D
+ (M
+
+%4"
+text"__id*"
+
+__unknown_file (
+
+%2b
+`
+ *  (9
+%5"__id*H
+
+__unknown_file (,**
+ui.mainScreen.MainScreen"
+
+translatorjh
+ *  (N
+%6*"
+
+__unknown_file (
+
+%5*/
+
+__unknown_file (
+start_recording2t[
+Y
+   (
+%7"__id*A
+
+__unknown_file (%*#
+ui.mainScreen.MainScreen"
+idsO
+M
+   ("
+%8"__id*5
+
+__unknown_file (*
+
+%7"
+transcriptionF
+D
+   (N
+
+%8"
+text"__id*"
+
+__unknown_file (
+
+%6e
+c
+! !(
+%9"__id*K
+
+__unknown_file (/*-
+ui.mainScreen.MainScreen"
+voice_to_textt
+r
+!/ !(O
+%10"__id*Y
+
+__unknown_file (=*;
+ui.mainScreen.MainScreen"
+handle_transcription_resultmk
+! !(P
+%11*"
+
+__unknown_file (
+
+%9*#
+
+__unknown_file (
+
+%102start_recording*
+3*é
+5# #(Nc
+a
+#* #(9
+%12"__id*H
+
+__unknown_file (,**
+ui.mainScreen.MainScreen"
+
+translatorlj
+#* #(N
+%13*#
+
+__unknown_file (
+
+%12*/
+
+__unknown_file (
+start_recording2t\
+Z
+# #(
+%14"__id*A
+
+__unknown_file (%*#
+ui.mainScreen.MainScreen"
+idsQ
+O
+# #("
+%15"__id*6
+
+__unknown_file (*
+
+%14"
+record_buttonH
+F
+# #(N
+
+%15"
+text"__id*#
+
+__unknown_file (
+
+%13c
+a
+$* $(9
+%16"__id*H
+
+__unknown_file (,**
+ui.mainScreen.MainScreen"
+
+translatorki
+$* $(M
+%17*#
+
+__unknown_file (
+
+%16*.
+
+__unknown_file (
+stop_recording2t\
+Z
+$ $(
+%18"__id*A
+
+__unknown_file (%*#
+ui.mainScreen.MainScreen"
+idsQ
+O
+$ $("
+%19"__id*6
+
+__unknown_file (*
+
+%18"
+transcriptionH
+F
+$ $(M
+
+%19"
+text"__id*#
+
+__unknown_file (
+
+%17f
+d
+% %(
+%20"__id*K
+
+__unknown_file (/*-
+ui.mainScreen.MainScreen"
+voice_to_textR
+P
+% %(3
+
+%20"
+is_recording"__id*%
+
+__unknown_file (	
+
+False*
+3B
+ui.mainScreen.MainScreenH

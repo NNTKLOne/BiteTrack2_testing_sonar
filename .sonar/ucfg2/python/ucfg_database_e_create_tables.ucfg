@@ -1,0 +1,63 @@
+
+database.Database.create_tablesP
+FC:\Users\viliu\source\repos\Bite_Track_Sonar_test\database\database.py ("2*ø
+2 ($US
+ ($
+%1*1
+
+__unknown_file (
+database.Database2get_connection>
+<
+ ($
+conn"__id*"
+
+__unknown_file (
+
+%1@>
+ (
+%2*$
+
+__unknown_file (
+
+conn2cursor@
+>
+ (
+cursor"__id*"
+
+__unknown_file (
+
+%2ÅÂ
+ (
+%3*&
+
+__unknown_file (
+
+
+cursor*þ
+
+__unknown_file (áÞ
+Û
+        CREATE TABLE IF NOT EXISTS Product (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            product_name TEXT NOT NULL,
+            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+        )
+        2execute@>
+ (
+%4*$
+
+__unknown_file (
+
+conn2commit?=
+ (
+%5*$
+
+__unknown_file (
+
+conn2close*
+3*1
+3
+database.py"
+   (
+implicit returnB
+database.DatabaseH
